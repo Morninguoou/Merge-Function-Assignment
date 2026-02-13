@@ -1,4 +1,4 @@
-# Merge TypeScript 
+# Merge Function
 
 Implementation of a merge function that combines three sorted arrays into a single ascending array.
 
