@@ -17,7 +17,7 @@ Implementation of a merge function that combines three sorted arrays into a sing
     ```
 
     ```bash
-    cd merge-typescript
+    cd Merge-Function-Assignment
     ```
 
 2. Install the dependencies
